@@ -1,0 +1,16 @@
+D:\VS\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.exe
+D:\VS\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.deps.json
+D:\VS\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.json
+D:\VS\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.runtimeconfig.dev.json
+D:\VS\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.dll
+D:\VS\WinFormsApp3\WinFormsApp3\bin\Debug\netcoreapp3.1\WinFormsApp3.pdb
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.Form1.resources
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.GenerateResource.cache
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfoInputs.cache
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.AssemblyInfo.cs
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.dll
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.pdb
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.genruntimeconfig.cache
+D:\VS\WinFormsApp3\WinFormsApp3\obj\Debug\netcoreapp3.1\WinFormsApp3.csproj.AssemblyReference.cache
